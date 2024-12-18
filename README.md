@@ -1,7 +1,7 @@
 # Traveling Salesman Problem (TSP) Solution Using Genetic Algorithm
 
 ## 프로젝트 개요
-본 프로젝트는 유전 알고리즘(Genetic Algorithm, GA)을 활용하여 외판원 문제(Traveling Salesman Problem, TSP)를 해결합니다. TSP는 모든 도시를 단 한 번씩 방문하고 출발지로 돌아오는 최소 경로를 찾는 NP-Hard 문제로, 본 연구에서는 다양한 교차 연산자와 지역 탐색 기법을 조합한 **하이브리드 유전 알고리즘(Hybrid GA)**을 구현하였습니다.
+본 프로젝트는 유전 알고리즘(Genetic Algorithm, GA)을 활용하여 외판원 문제(Traveling Salesman Problem, TSP)를 해결합니다. TSP는 모든 도시를 단 한 번씩 방문하고 출발지로 돌아오는 최소 경로를 찾는 NP-Hard 문제로, 본 연구에서는 다양한 교차 연산자와 지역 탐색 기법을 조합한 하이브리드 유전 알고리즘(Hybrid GA)을 구현하였습니다.
 
 - **지도교수**: 윤유림
 - **소속**: 가천대학교 컴퓨터공학과, 심화프로그래밍
